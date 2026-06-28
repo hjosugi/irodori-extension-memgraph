@@ -33,7 +33,13 @@
         "wire": "memgraph",
         "module": "memgraph.driver",
         "features": [
-          "metadata"
+          "metadata",
+          "graph",
+          "graphVisualization",
+          "pathFinding",
+          "graphAlgorithms",
+          "queryTemplates",
+          "visualization"
         ],
         "connection": {
           "schemaVersion": 1,
